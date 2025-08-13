@@ -1,4 +1,4 @@
-# Order-Cancellation-Customer-Retention-Analysis---Google-Sheet
+# Order-Cancellation-Customer-Retention-Analysis---Excel
 **Tool Used:** Google Sheets  
 **Duration:** 3 Days  
 **Type:** Mock Business Case | Individual Project
